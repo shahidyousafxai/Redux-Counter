@@ -23,7 +23,7 @@ const Counter = () => {
             dispatch(changevalue(inputvalue))
           }}
         >
-          Decrement
+          Print
         </button>
       </div>
       <div>
